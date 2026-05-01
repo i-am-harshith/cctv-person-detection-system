@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+Pillow<10
+protobuf>=6.31.1,<8
+six
